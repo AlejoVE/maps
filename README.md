@@ -1,47 +1,24 @@
-# Getting Started with Create React App
+# Alejo Maps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+Map application using Mapbox API to search for addresses, the distance between the destination and the user, the time it would take to reach the destination by car and the best route to follow.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![Instructions](https://private-user-images.githubusercontent.com/59319966/316851364-fa69ee7f-7342-451c-a78e-2053a9fb0e79.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE0NTQ3MTQsIm5iZiI6MTcxMTQ1NDQxNCwicGF0aCI6Ii81OTMxOTk2Ni8zMTY4NTEzNjQtZmE2OWVlN2YtNzM0Mi00NTFjLWE3OGUtMjA1M2E5ZmIwZTc5LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI2VDEyMDAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0NjVjOTBmYjlhZjNiM2U2ZDhkMjgwYTI2MTI4MzhmY2RhNjM5ODVmZmIwOTVjMmJmYWE0OWZkMzI2MzY1OWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cDCdqXrAVczxEsn2_wmz3YhuotefJWJageK-3o5sG8Y)]()
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Live Demo
+## <a href="https://maps-alejove.netlify.app/" target="_blank" >See it here!</a>
 
-### `npm test`
+##  Technologiesv
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- Typescript
+- CSS
+- Mapbox
+- Netlify
 
-### `npm run build`
+## License
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# maps
+MIT
